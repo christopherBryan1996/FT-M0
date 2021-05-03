@@ -1,0 +1,41 @@
+h1{
+    color:black
+}
+img{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: blue;
+    
+}
+
+#spanId{
+    font-size: 18px;
+    color: black;
+    margin: 50px ;
+}
+#thirdDiv{
+    padding: 50px;
+    border: darkorange;
+    border: 1000px;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+/*extra */
+body{
+    background-image: url("https://static.barcelo.com/content/dam/bhg/master/es/hoteles/cuba/imagenes-cuba/cuba.jpg.bhgimg.optm1100.jpg/1604654479071.jpg");
+}
+div{
+    text-align: center;
+}
+body{
+    text-align: center;
+   
+}
