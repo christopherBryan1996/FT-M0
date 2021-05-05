@@ -1,0 +1,20 @@
+Variables
+son valores como uno o dos o letras o palabras un ejemplo seria tienes una variable que se llama casa 
+y le pones de valor tu direccion o una variable llamada numero y le pones un valor del numero que queramos 
+
+Strings
+es un tipo de variable que ahi le pones letras o numeros pero los numeros no los puedes sumar solose concatenan 
+es decir 1 + 1 =  11 pero en entero seria 2
+
+Funciones (argumentos, return)
+si tienes un registro para varias personas y en ves de usar el mismo codigo con cada persona repitiendo mejor
+solo llamas a la funcion y le mandas los argumentos y es mas facil y menos codigo y el return es para devolver 
+valores que requeramos por ejerplo el primer nobre y su edad o el que requieras de tu registro que hiciste 
+
+Declaraciones if
+es un condicional ayuda a ver si es algo igual o diferente o mayor o menor que, ejemplo con tu passwork si 
+el numero que pones es igual al passwork te deja entrar y podes ver todo el contenido dentro del if
+
+Valores booleanos (true, false)
+es otro tipo de variable donde es si o no, 1 o 0, blanco o negreo, true o false
+no hay mas valores que solo dos 
