@@ -1,0 +1,9 @@
+for
+es un bucle que va iterando las veces que quieras por ejemplo si quieres que se repita hola mundo 10 
+veces con este for lo puedes hacer 
+
+&& si tienes dos valores que tengan el mismo valor es verdadero y si son diferentes es falso 
+
+|| verdadero si alguno de los dos es verdadero 
+
+! de vuelve el valor contrario si es verdadero devuelve falso  
