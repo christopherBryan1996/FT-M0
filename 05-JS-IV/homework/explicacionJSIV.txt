@@ -1,0 +1,11 @@
+Objetos
+son cosas reales que se ponen en la computadora para que sepa que es un objeto
+Propiedades
+son las caracteristicas de los objetos 
+Métodos
+son formas de optimizar una accion que es costante 
+Bucle for…in
+es un bucle que ayuda iterar de n in m
+Notación de puntos vs notación de corchetes
+puntos: antes de poner es el nombre de la Propiedades y despues de los puntos es el valor 
+corchetes para abrir un objeto
