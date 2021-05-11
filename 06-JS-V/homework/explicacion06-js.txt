@@ -1,0 +1,5 @@
+prototype
+son referencias para objetos 
+
+Constructors (de Clases)
+construlle literal toda las intancias del objeto
