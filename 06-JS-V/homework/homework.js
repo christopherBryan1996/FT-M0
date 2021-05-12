@@ -61,12 +61,12 @@ function agregarStringInvertida() {
     //  }
 
   class Persona {
-    constructor(objeto) {
+    constructor(nombre, apellido, edad, domicilio) {
       // Crea el constructor:
-      this.nombre= objeto.nombre;
-      this.apellido= objeto.apellido;
-      this.edad=objeto.edad;
-      this.domicilio= objeto.domicilio
+      this.nombre= nombre;
+      this.apellido= apellido;
+      this.edad=edad;
+      this.domicilio= domicilio
     }
     detalle = function() {
       var persona = {
